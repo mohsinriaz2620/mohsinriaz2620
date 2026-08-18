@@ -16,7 +16,7 @@ I'm a Computer Science undergraduate student (BSCS) at NUST-SEECS in Pakistan. I
 
 ### 📫 How to reach me
 *   **Email:** mohsinriaz2620@gmail.com
-*   **LinkedIn:** linkedin.com/in/mohsinriaz2620
+*   **LinkedIn:** https://linkedin.com/in/mohsinriaz2620
 
 ---
 *"Always exploring the intersection of clean software architecture and functional hardware design."*
