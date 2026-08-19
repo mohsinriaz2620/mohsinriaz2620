@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Mohsin! 
+Hi there 👋, I'm Mohsin! 
 
 I'm a Computer Science undergraduate student (BSCS) at NUST-SEECS in Pakistan. I am passionate about software development, hardware simulation, and building systems that bridge the gap between digital logic, systems engineering and practical applications. 
 
